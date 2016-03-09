@@ -1,2 +1,2 @@
 # hello-world
-New test repository
+This is a new day and new beginning a new way of coding
